@@ -1,0 +1,94 @@
+﻿
+
+1. Which of the following best describes the phenomenon of superposition in
+quantum computing? a) A qubit can exist in multiple states simultaneously until
+measured. b) A qubit can only be in a state of 0 or 1 at any given time. c) Two
+qubits are linked in such a way that they share the same fate. d) The process of
+measuring a qubit’s state
+The correct answer is a) A qubit can exist in multiple states simultaneously until measured.
+
+
+
+
+2. What is the primary purpose of a Hadamard gate when applied to a qubit initially
+
+in the ∣0⟩ state? a) To flip the qubit from ∣0⟩ to ∣1⟩. b) To entangle two qubits. c) To
+
+put the qubit into a superposition of ∣0⟩ and ∣1⟩. d) To measure the qubit’s state.
+
+The correct answer is c) To put the qubit into a superposition of |0\rangle and |1\rangle.
+
+
+
+
+3. If a quantum system has n qubits, how many complex amplitudes are needed to
+
+fully describe its state? a) n b) 2n c) n
+
+2 d) 2^n
+
+The correct answer is d) 2^n.
+
+4. Which quantum algorithm offers a quadratic speedup for searching an unsorted
+
+database compared to classical algorithms? a) Shor’s Algorithm b) Deutsch-Jozsa
+
+Algorithm c) Grover’s Algorithm d) Quantum Phase Estimation
+
+The correct answer is c) Grover’s Algorithm.
+
+5. What is the main challenge that quantum error correction aims to address? a)
+
+The difficulty of building large quantum computers. b) The fragility of qubits due
+
+to environmental noise and decoherence. c) The exponential growth of
+
+computational resources needed for quantum simulation. d) The lack of suitable
+quantum programming languages
+
+The correct answer is b) The fragility of qubits due to environmental noise and decoherence.
+
+6.Which of the following is a key characteristic of superconducting qubits? a) They
+
+operate at room temperature. b) They require extremely low temperatures
+
+(millikelvins). c) They use individual atoms suspended in electromagnetic fields.
+
+d) They are inherently robust against local errors due to topological properties
+
+
+the correct answer is b) They require extremely low temperatures (millikelvins).
+
+7. What is the primary threat that Shor’s algorithm poses to current cryptographic
+
+systems? a) It can break symmetric encryption algorithms like AES. b) It can
+
+efficiently factor large numbers, compromising RSA and ECC. c) It can solve the
+traveling salesman problem much faster. d) It can accelerate machine learning
+tasks, leading to privacy breaches.
+The correct answer is b) It can efficiently factor large numbers, compromising RSA and ECC.
+
+8. Which of the following is a hybrid quantum-classical algorithm used to find the
+ground state energy of molecules? a) Grover’s Algorithm b) Quantum Phase
+Estimation (QPE) c) Variational Quantum Eigensolver (VQE) d) Quantum
+Approximate Optimization Algorithm (QAOA)
+
+The correct answer is c) Variational Quantum Eigensolver (VQE).
+
+9. The “no-cloning theorem” in quantum mechanics implies that: a) Qubits cannot
+
+be measured without disturbing their state. b) An arbitrary unknown quantum
+
+state cannot be perfectly copied. c) Entanglement cannot be created between
+
+distant qubits. d) Quantum computers cannot simulate classical computers.
+
+The correct answer is b) An arbitrary unknown quantum state cannot be perfectly copied.
+
+10. Which of these PQC approaches relies on the difficulty of problems in
+
+mathematical lattices? a) Hash-based cryptography b) Code-based cryptography
+
+c) Multivariate polynomial cryptography d) Lattice-based cryptography
+
+The correct answer is d) Lattice-based cryptography.
